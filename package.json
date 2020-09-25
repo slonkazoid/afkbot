@@ -1,0 +1,17 @@
+{
+  "name": "afkbot",
+  "version": "1.0.0",
+  "description": "afk bot for mc",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ali Furkan YILDIZ",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "dotenv": "^8.2.0",
+    "mineflayer": "^2.28.1"
+  }
+}
