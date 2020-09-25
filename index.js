@@ -11,7 +11,7 @@ const rl = readline.createInterface({
 
 let session = false;
 let login = {
-	host: process.env.HOST || "0b0t.org",
+	host: process.env.HOST || "localhost",
 	port: process.env.PORT,
 	version: process.env.VERSION,
 	username: process.env.USERNAME || "afkbot",
