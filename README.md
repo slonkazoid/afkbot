@@ -8,6 +8,7 @@ A command line chat-only minecraft client.
 
 ```sh
 git clone https://github.com/uAliFurkanY/afkbot
+cd afkbot
 npm i
 <insert editor here> .env
 node .
